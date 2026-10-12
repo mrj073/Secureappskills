@@ -1,0 +1,56 @@
+{
+  "projectId": "projects/5044269452507604275",
+  "projectTitle": "Aura - Pure Free Dating",
+  "origin": "STITCH",
+  "screens": {
+    "2c3b1a3d37c34bb4ab3fabfd644731a9": {
+      "id": "2c3b1a3d37c34bb4ab3fabfd644731a9",
+      "type": "IMAGE",
+      "title": "Close-up portrait of Maya, a friendly vibrant 24-year-old woman smiling warmly at the camera with genuine laugh lines, holding an iced matcha or coffee cup outdoors in soft golden hour warm urban cafe bokeh background. Natural makeup, modern aesthetic, high resolution photography, cinematic natural lighting.",
+      "width": "896",
+      "height": "1200"
+    },
+    "96cc5d8f94ce4add878460fafda27518": {
+      "id": "96cc5d8f94ce4add878460fafda27518",
+      "type": "DESIGN",
+      "title": "Aura - Discover & Swipe",
+      "width": "780",
+      "height": "1768"
+    },
+    "3b048cfa9f724adb8d816d03cd835ee7": {
+      "id": "3b048cfa9f724adb8d816d03cd835ee7",
+      "type": "DESIGN",
+      "title": "Aura - Daily Swipe Limit Reached",
+      "width": "780",
+      "height": "1768"
+    },
+    "4550ba54f9e24ad2a3030f2f40473c9f": {
+      "id": "4550ba54f9e24ad2a3030f2f40473c9f",
+      "type": "DESIGN",
+      "title": "Aura - Rewarded Ad Unlock Modal",
+      "width": "780",
+      "height": "1768"
+    },
+    "49e5814fa5bd436cb3ecd2542ee74835": {
+      "id": "49e5814fa5bd436cb3ecd2542ee74835",
+      "type": "DESIGN",
+      "title": "Aura - Ad Reward Success Modal",
+      "width": "780",
+      "height": "1768"
+    },
+    "56bbe0f77f764ed295353dfab8342fb7": {
+      "id": "56bbe0f77f764ed295353dfab8342fb7",
+      "type": "IMAGE",
+      "title": "Portrait avatar of a friendly stylish 26-year-old young man smiling warmly, urban evening background with soft bokeh lights, modern photography portrait, square crop profile photo",
+      "width": "1024",
+      "height": "1024"
+    },
+    "1615fc157ef84d4384bf2922b3c7d582": {
+      "id": "1615fc157ef84d4384bf2922b3c7d582",
+      "type": "DESIGN",
+      "title": "Aura - Match Celebration",
+      "width": "780",
+      "height": "1768"
+    }
+  }
+}

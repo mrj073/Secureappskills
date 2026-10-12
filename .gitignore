@@ -1,3 +1,23 @@
 .DS_Store
 *.log
 /tmp/
+
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Next.js & Build outputs
+.next/
+**/.next/
+out/
+build/
+
+# Environment files
+.env*
+**/.env*
+
+# IDE & Cache
+.vscode/
+.idea/
+*.swp
+*.tsbuildinfo
